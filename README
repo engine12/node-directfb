@@ -1,0 +1,5 @@
+This is the 'port' of the v8 bindings for directfb to Node.js .  
+The package from which this project is derived came from directfb.org.
+
+It is not complete!
+There are many empty shells.
